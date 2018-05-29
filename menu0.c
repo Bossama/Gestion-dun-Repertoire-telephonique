@@ -34,9 +34,3 @@ void menu0()
 
 }
 
-
-//printf(" WELECOM ... chose your acssess type!\n");
-//    printf("1.Administrateur\n");
-//    printf("2.Utilisateur\n");
-//    printf("3.Quitter\n\n");
-//    printf("donner votre type d'acces!!!\n");

@@ -31,12 +31,5 @@ printf("\n\t\t Donner le nom de contact a afficher :\t");
         printf("      藩様様様様様様様様様様様様様様様様様様様様様様様様様様様様夕\n");
          }
 
-//    printf("nom       : %s\n",tab[i].nom);
-//    printf("prenom    : %s\n",tab[i].prenom);
-//    printf("numero    : %d\n",tab[i].num);
-//    printf("ncin      : %s\n",tab[i].ncin);
-//    //printf("l'adresse : %s\n",tab[i].adresse);
-//    printf("************************\n\n");
-
    }
 }

@@ -43,25 +43,7 @@ system("cls");
 	    printf("         -----------------------------------------------------  \n");
         printf("      藩様様様様様様様様様様様様様様様様様様様様様様様様様様様様夕\n");
         system("pause");
-//    printf("nouveau nom            :   ");
-//    scanf("%s",&tab[i].nom);
-//    printf("\n");
-//
-//    printf("nouveau prenom          :  ");
-//    scanf("%s",&tab[i].prenom);
-//    printf("\n");
-//
-//    printf("nouveau numero          :  ");
-//    scanf("%d",&tab[i].num);
-//    printf("\n");
-//
-//    printf("nouveau ncin            :  ");
-//    scanf("%s",&tab[i].ncin);
-//    printf("\n");
 
-    //printf("nouveau l'adresse       :  ");
-//    scanf("%s",&tab[i].adresse);
-    //printf("\n");
-
+      }
+   }
 }
-   }}

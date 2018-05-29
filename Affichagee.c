@@ -27,11 +27,6 @@ system("COLOR 1e");
 	    printf("      บ   -----------------------------------------------------  บ\n");
         printf("      ศอออออออออออออออออออออออออออออออออออออออออออออออออออออออผ\n");
          system("pause");
-//    printf("nom       : %s\n",tab[i-1].nom);
-//    printf("prenom    : %s\n",tab[i-1].prenom);
-//    printf("numero    : %d\n",tab[i-1].num);
-//    printf("ncin      : %s\n",tab[i-1].ncin);
-    //printf("l'adresse : %s\n",tab[i].adresse);
-   // printf("-----------------------------\n\n");
+
         }
    }
