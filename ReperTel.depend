@@ -1,0 +1,191 @@
+# depslib dependency file v1.0
+1481709543 source:c:\users\boussama\desktop\last chance\repertel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481696493 source:c:\users\boussama\desktop\last chance\repertel\ajout.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1481709422 c:\users\boussama\desktop\last chance\repertel\prototypes.h
+	"Structeurs.h"
+
+1481678187 c:\users\boussama\desktop\last chance\repertel\structeurs.h
+
+1481710452 source:c:\users\boussama\desktop\last chance\repertel\menuu.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481709820 source:c:\users\boussama\desktop\last chance\repertel\affichagee.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481708863 source:c:\users\boussama\desktop\last chance\repertel\affichageassociee.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481708286 source:c:\users\boussama\desktop\last chance\repertel\modifierr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481707572 source:c:\users\boussama\desktop\last chance\repertel\supprimerr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481687404 source:c:\users\boussama\desktop\last chance\repertel\chargerr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481678625 source:c:\users\boussama\desktop\last chance\repertel\sauvgardee.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1481678005 source:c:\users\boussama\desktop\last chance\repertel\preparationfichier.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1481747619 source:c:\users\boussama\desktop\last chance\repertel\pub.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481682697 source:c:\users\boussama\desktop\last chance\repertel\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481682697 source:c:\users\boussama\desktop\last chance\repertel\menu2.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481682697 source:c:\users\boussama\desktop\last chance\repertel\menu0.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481712463 source:f:\1age2\1er semestre\documents info\last chance\repertel\affichageassociee.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481681787 f:\1age2\1er semestre\documents info\last chance\repertel\structeurs.h
+
+1481713420 source:f:\1age2\1er semestre\documents info\last chance\repertel\affichagee.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481700093 source:f:\1age2\1er semestre\documents info\last chance\repertel\ajout.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1481691004 source:f:\1age2\1er semestre\documents info\last chance\repertel\chargerr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481713143 source:f:\1age2\1er semestre\documents info\last chance\repertel\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481713022 f:\1age2\1er semestre\documents info\last chance\repertel\prototypes.h
+	"Structeurs.h"
+
+1481686297 source:f:\1age2\1er semestre\documents info\last chance\repertel\menu0.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481686297 source:f:\1age2\1er semestre\documents info\last chance\repertel\menu1.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481686297 source:f:\1age2\1er semestre\documents info\last chance\repertel\menu2.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481714052 source:f:\1age2\1er semestre\documents info\last chance\repertel\menuu.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481711886 source:f:\1age2\1er semestre\documents info\last chance\repertel\modifierr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
+1481681605 source:f:\1age2\1er semestre\documents info\last chance\repertel\preparationfichier.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1481751219 source:f:\1age2\1er semestre\documents info\last chance\repertel\pub.c
+	<stdio.h>
+	<stdlib.h>
+	"Prototypes.h"
+	<windows.h>
+	"Structeurs.h"
+
+1481682225 source:f:\1age2\1er semestre\documents info\last chance\repertel\sauvgardee.c
+	<stdio.h>
+	<stdlib.h>
+	"Structeurs.h"
+	<windows.h>
+
+1481711172 source:f:\1age2\1er semestre\documents info\last chance\repertel\supprimerr.c
+	"Structeurs.h"
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
