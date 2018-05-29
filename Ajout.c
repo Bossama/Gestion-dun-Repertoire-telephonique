@@ -16,7 +16,7 @@ scanf("%d",&n);
 for (i=1;i<=n;i++)
         {
         printf("\n\t            le contact  N::%d :  \n",i+nbr_contact);
-        printf("      ษออออออออออออออออออออออออออออออออออออออออออออออออออออออป\n");
+        printf("      รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยป\n");
 		printf("         -----------------------------------------------------  \n");
 		printf("        (>   nom             :                 ");scanf("%s",&tab[i+nbr_contact].nom);
         printf("                                                                \n");
@@ -26,39 +26,8 @@ for (i=1;i<=n;i++)
         printf("                                                                \n");
         printf("        (>   ncin            :                 ");scanf("%s",&tab[i+nbr_contact].ncin);
 	    printf("         -----------------------------------------------------  \n");
-        printf("      ศออออออออออออออออออออออออออออออออออออออออออออออออออออออออออผ\n");
+        printf("      รรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรรยผ\n");
         }
 return(n);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//    printf(" nom             :  ");
-//    scanf("%s",&tab[i+nbr_contact].nom);
-//    printf("\n");
-//
-//    printf(" prenom          :  ");
-//    scanf("%s",&tab[i+nbr_contact].prenom);
-//    printf("\n");
-//
-//    printf(" numero          :  ");
-//    scanf("%d",&tab[i+nbr_contact].num);
-//    printf("\n");
-//
-//    printf(" ncin            :  ");
-//    scanf("%s",&tab[i+nbr_contact].ncin);
-//    printf("\n");
